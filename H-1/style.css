@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box ;
+    border: none ;
+    overflow-x: hidden ;
+  }
+  .Cajas {
+    position: absolute;
+    display: block;
+    line-height: 100px;
+    text-align: center;
+    color: rgb(219, 221, 209);
+    padding: 0;
+    border: 0;
+    margin: 0 none;
+  }
+  .Caja1 {
+    position: relative;
+    background-color: #93B5C9;
+    padding: 20px;
+    width: 100vw;
+    height: 100px;
+    margin: 0 none;
+    border: 0 none;
+  }
+  .Caja2 {
+    position: relative;
+    background-color: #AB2849;
+    padding: 20px;
+    width: 100vw;
+    height: 200px;
+    margin: 0 none;
+    border: 0 none;
+  }
+  .Caja3 {
+    position: relative;
+    background-color: #AB2849;
+    width: 90%;
+    height: 120px;
+    padding: 20px;
+    margin: 1%;
+    left: 20%;
+    margin-left: 1% ;
+  }
+  .Caja4 {
+    position: relative;
+    background-color: #AB2849;
+    width: 90%;
+    height: 120px;
+    padding: 20px;
+    margin: 1%;
+    left: 20%;
+    margin-left: 1% ;
+    
+  }
+  .Caja5 {
+    position: relative;
+    background-color: #AB2849;
+    width: 90%;
+    height: 120px;
+    padding: 20px;
+    margin: 1%;
+    left: 20%;
+    margin-left: 1% ;
+  }
+  .Caja6 {
+    position: relative;
+    background-color: #AB2849;
+    width: 90%;
+    height: 120px;
+    padding: 20px;
+    margin: 1%;
+    left: 20%;
+    margin-left: 1% ;
+  }
+  .Caja7 {
+    position: relative;
+    background-color: #AB2849;
+    padding: 20px;
+    margin: 1%;
+    width: 80%;
+    height: 120px;
+    left: 80px;
+    margin-right: 1%;
+  }

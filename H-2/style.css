@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border: none;
+    overflow-x: hidden;
+}
+section {
+        padding: 0;
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+}
+.Cajas {
+    display: block;
+    padding: 0;
+    border: 0;
+    margin: 0 none;
+}
+.Caja1 {
+    background-color: #93B5C9;
+    padding: 20px;
+    width: 100vw;
+    height: 100px;
+    margin: 0 none;
+    border: 0 none;
+}
+.Caja2 {
+    background-color: #AB2849;
+    padding: 20px;
+    width: 100vw;
+    height: 200px;
+    margin: 0 none;
+    border: 0 none;
+}
+.Caja3 {
+    background-color: #AB2849;
+    padding: 60px;
+    width: 70%;
+    float: left;
+    margin: 2%;
+    margin-left: 0%;
+}
+.Caja4 {
+    background-color: #AB2849;
+    padding: 60px;
+    width: 70%;
+    clear: both;
+    margin: 2%;
+    margin-left: 0%;
+}
+.Caja5 {
+    background-color: #AB2849;
+    padding: 60px;
+    width: 70%;
+    clear: both;
+    margin: 2%;
+    margin-left: 0%;
+}
+.Caja6 {
+    background-color: #AB2849;
+    padding: 60px;
+    width: 70%;
+    clear: both;
+    margin: 1%;
+    margin-left: 0%;
+}
+.Caja7 {
+    background-color: #AB2849;
+    padding: 50px;
+    width: 100%;
+    float:left;
+    margin: 1%;
+    margin-left: 3%;
+}
+@media only screen and (min-width: 301px)  {
+    .cajas {
+      width: 60%;}
+    }
